@@ -1,0 +1,1 @@
+we would like to simulate regions of brain and connect them with each other, duplicating fractal structure of connections within simulated brain
